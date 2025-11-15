@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Sociedade do Layout EP01.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -46,7 +46,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Google Banana Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -97,3 +97,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Editado por [Abrahão Braga](https://github.com/abrahaobraga10)
